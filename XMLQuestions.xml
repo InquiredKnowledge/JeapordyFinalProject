@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<catagorieslist>
+	<catagory title="Pokemon">
+		<questioninfo>
+			<question>Pokemon that dies when it's tail is no longer on fire</question>
+			<answer>What is Charmander?</answer>
+			<value>200</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Pokemon that is on the box of Pokemon Diamond?</question>
+			<answer>What is Dialga?</answer>
+			<value>400</value>
+		</questioninfo>
+				<questioninfo>
+			<question>How many pokemon where there in generation 1?</question>
+			<answer>151</answer>
+			<value>600</value>
+		</questioninfo>
+			<questioninfo>
+			<question>What was the water starter in Hoenn?</question>
+			<answer>Mudkip</answer>
+			<value>800</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Which pokemon signature move is aura sphere?</question>
+			<answer>Lucario</answer>
+			<value>1000</value>
+		</questioninfo>
+	</catagory>
+	<catagory title="Consoles">
+		<questioninfo>
+			<question>What is the name of console series by Sony?</question>
+			<answer>PlayStation</answer>
+			<value>200</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What is the name of console series by Microsoft?</question>
+			<answer>Xbox</answer>
+			<value>400</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What was Nintendo's best selling console?</question>
+			<answer>Wii</answer>
+			<value>600</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What is the best selling handheld console?</question>
+			<answer>Nintendo DS</answer>
+			<value>800</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What was the name of Nintendo's first console that made it so you could see the games in 3D like the Nintendo 3DS?</question>
+			<answer>Virtual Boy</answer>
+			<value>1000</value>
+		</questioninfo>
+	</catagory>
+	<catagory title="World History">
+		<questioninfo>
+			<question>In what year did World War One end?</question>
+			<answer>1918</answer>
+			<value>200</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Which ocean did the Titanic sink in?</question>
+			<answer>Atlantic</answer>
+			<value>400</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Which country was the first to declare independence from the Soviet Union in 1990?</question>
+			<answer>Lithuania</answer>
+			<value>600</value>
+		</questioninfo>
+		<questioninfo>
+			<question>General Simon Bolivar, a general who fought for South American independence from Spain, was from which modern-day country?</question>
+			<answer>Venezuela</answer>
+			<value>800</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What drink company briefly had the world's 6th largest navy?</question>
+			<answer>Pepsi</answer>
+			<value>1000</value>
+		</questioninfo>
+	</catagory>
+	<catagory title="Computer Science">
+		<questioninfo>
+			<question>What is the AND operator in C#?</question>
+			<answer>ANDANDTODOFIXMELATER XDM4</answer>
+			<value>200</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What operating system has the largest share of internet server users?</question>
+			<answer>Linux</answer>
+			<value>400</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Who created the computer that cracked the German Enigma code in WW2?</question>
+			<answer>Alan Turing</answer>
+			<value>600</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What is the lowest level human-readable type of programming language called?</question>
+			<answer>Assembly</answer>
+			<value>800</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What is the worst programming language?</question>
+			<answer>Java</answer>
+			<value>1000</value>
+		</questioninfo>
+	</catagory>
+	<catagory title="Space">
+		<questioninfo>
+			<question>What is the 1st planet in the solar system?</question>
+			<answer>Mercury</answer>
+			<value>200</value>
+		</questioninfo>
+		<questioninfo>
+			<question>How many stars are there in the Alpha Centauri system?</question>
+			<answer>2</answer>
+			<value>400</value>
+		</questioninfo>
+		<questioninfo>
+			<question>How many years away is the Andromeda galaxy from colliding with ours?</question>
+			<answer>5 Billion</answer>
+			<value>600</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What's the real name of the North Star?</question>
+			<answer>Polaris</answer>
+			<value>800</value>
+		</questioninfo>
+			<questioninfo>
+			<question>What is the largest class of star?</question>
+			<answer>Hypergiant</answer>
+			<value>1000</value>
+		</questioninfo>
+	</catagory>
+	<catagory title="Micronations">
+		<questioninfo>
+			<question>What is the micronation in Nevada with approximately 1 acre of land?</question>
+			<answer>Molossia</answer>
+			<value>200</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Which micronation is an oil rig off of the coast of England with its own currency and nobility?</question>
+			<answer>Sealand</answer>
+			<value>400</value>
+		</questioninfo>
+		<questioninfo>
+			<question>What is the name of the self-declared autonomous anarchist community in Copenhagen?</question>
+			<answer>Christiania</answer>
+			<value>600</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Which Australian micronation was founded after a family could no longer afford to pay taxes?</question>
+			<answer>Principality of Snake Hill</answer>
+			<value>800</value>
+		</questioninfo>
+		<questioninfo>
+			<question>Which fictional country claims land spanning from St Petersburg Russia, to northern Norway?</question>
+			<answer>Finland</answer>
+			<value>1000</value>
+		</questioninfo>
+	</catagory>
+</catagorieslist>
